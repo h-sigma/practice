@@ -16,3 +16,4 @@ Todo - Record SQL 50 finishes
 | 1768. Merge Strings Alternately | Easy | String | 29-01-26 |
 | 28. Find the Index of the First Occurrence in a String | Easy | String | 30-01-26 |
 | 242. Valid Anagram | Easy | String | 31-01-26 |
+| 459. Repeated Substring Pattern | Easy | String | 31-01-26 |
