@@ -17,3 +17,10 @@ Todo - Record SQL 50 finishes
 | 28. Find the Index of the First Occurrence in a String | Easy | String | 30-01-26 |
 | 242. Valid Anagram | Easy | String | 31-01-26 |
 | 459. Repeated Substring Pattern | Easy | String | 31-01-26 |
+
+
+## HackerRank
+
+### 30 days of code
+
+Started on 30-01-26. I won't be logging in each individual attempt and instead update end date.
