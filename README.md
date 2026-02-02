@@ -10,13 +10,14 @@ As workloads become more AI-centric, my own sharpness in terms of algorithmic th
 
 Todo - Record SQL 50 finishes
 
-| Problem                                 | Difficulty | Topic          | Completed On |
-|-----------------------------------------|------------|----------------|--------------|
-| 389. Find the Difference | Easy | String | 29-01-26 | 
-| 1768. Merge Strings Alternately | Easy | String | 29-01-26 |
-| 28. Find the Index of the First Occurrence in a String | Easy | String | 30-01-26 |
-| 242. Valid Anagram | Easy | String | 31-01-26 |
-| 459. Repeated Substring Pattern | Easy | String | 31-01-26 |
+| Problem                                 | Difficulty | Topic          | Languages                         | Completed On |
+|-----------------------------------------|------------|----------------|-----------------------------------|--------------|
+| 389. Find the Difference | Easy | String | rust | 29-01-26 | 
+| 1768. Merge Strings Alternately | Easy | String | rust | 29-01-26 |
+| 28. Find the Index of the First Occurrence in a String | Easy | String | rust | 30-01-26 |
+| 242. Valid Anagram | Easy | String | rust | 31-01-26 |
+| 459. Repeated Substring Pattern | Easy | String | rust | 31-01-26 |
+| 1. Two Sum | Easy | Numbers | elixir | 02-02-26 |
 
 
 ## HackerRank
