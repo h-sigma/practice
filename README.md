@@ -30,7 +30,7 @@ Todo - Record SQL 50 finishes
 | 242. Valid Anagram | Easy | String | rust, elixir | 31-01-26 |
 | 459. Repeated Substring Pattern | Easy | String | rust, elixir | 31-01-26 |
 | 1. Two Sum | Easy | Numbers | elixir | 02-02-26 |
-
+| 283. Move Zeroes | Easy | Two Pointers | rust | 03-02-26 |
 
 ## HackerRank
 
