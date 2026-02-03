@@ -4,6 +4,18 @@ Repository with solutions for practice questions from various sites (leetcode, h
 # Motivation
 As workloads become more AI-centric, my own sharpness in terms of algorithmic thinking seems to be slipping away. So I'll be doing these practice problems to keep my programmer muscles fit.
 
+# Languages Used
+
+## What I Use IRL
+- In my daily webdev life, I use Php and TypeScript about half of the time each. I have done a couple of web projects in Rust that are in production.
+- In my personal life, I have used C++ a lot and C# extensively for gamedev. I really enjoy coding in Rust.
+- I have recently (Jan 24, 26) started taking an interest in Elixir.
+
+## Plan
+- Do all problems in Rust first to exercise solving the problem itself 
+- Do these problems in Elixir or C++ later to exercise coding in these languages
+- Do the problems in Php/TS to kill time
+
 # Problems Solved
 
 ## Leetcode 
