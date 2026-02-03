@@ -24,13 +24,15 @@ Todo - Record SQL 50 finishes
 
 | Problem                                 | Difficulty | Topic          | Languages                         | Completed On |
 |-----------------------------------------|------------|----------------|-----------------------------------|--------------|
+| Study Plan - Programming Skills | -- | -- | -- | -- |
 | 389. Find the Difference | Easy | String | rust, elixir | 29-01-26 | 
 | 1768. Merge Strings Alternately | Easy | String | rust | 29-01-26 |
 | 28. Find the Index of the First Occurrence in a String | Easy | String | rust | 30-01-26 |
 | 242. Valid Anagram | Easy | String | rust, elixir | 31-01-26 |
 | 459. Repeated Substring Pattern | Easy | String | rust, elixir | 31-01-26 |
-| 1. Two Sum | Easy | Numbers | elixir | 02-02-26 |
+| 1. Two Sum | Easy | Math | elixir | 02-02-26 |
 | 283. Move Zeroes | Easy | Two Pointers | rust | 03-02-26 |
+| 66. Plus One | Easy | Math | rust | 03-02-26 | 
 
 ## HackerRank
 
