@@ -16,7 +16,7 @@ Todo - Record SQL 50 finishes
 | 1768. Merge Strings Alternately | Easy | String | rust | 29-01-26 |
 | 28. Find the Index of the First Occurrence in a String | Easy | String | rust | 30-01-26 |
 | 242. Valid Anagram | Easy | String | rust | 31-01-26 |
-| 459. Repeated Substring Pattern | Easy | String | rust | 31-01-26 |
+| 459. Repeated Substring Pattern | Easy | String | rust, elixir | 31-01-26 |
 | 1. Two Sum | Easy | Numbers | elixir | 02-02-26 |
 
 
