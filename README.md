@@ -33,6 +33,7 @@ Todo - Record SQL 50 finishes
 | 1. Two Sum | Easy | Math | elixir | 02-02-26 |
 | 283. Move Zeroes | Easy | Two Pointers | rust | 03-02-26 |
 | 66. Plus One | Easy | Math | rust | 03-02-26 | 
+| 1822. Sign of the Product of an Array | Easy |  Math | rust | 04-02-26 |
 
 ## HackerRank
 
