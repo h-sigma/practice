@@ -34,7 +34,8 @@ Todo - Record SQL 50 finishes
 | 283. Move Zeroes | Easy | Two Pointers | rust | 03-02-26 |
 | 66. Plus One | Easy | Math | rust | 03-02-26 | 
 | 1822. Sign of the Product of an Array | Easy |  Math | rust, elixir | 04-02-26 |
-| 1502. Can Make Arithmetic Progression From Sequence | Easy | Math | elixir | 04-02-26 |
+| 1502. Can Make Arithmetic Progression From Sequence | Easy | Math | rust, elixir | 04-02-26 |
+
 
 ## HackerRank
 
