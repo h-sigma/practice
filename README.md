@@ -35,7 +35,7 @@ Todo - Record SQL 50 finishes
 | 66. Plus One | Easy | Math | rust | 03-02-26 | 
 | 1822. Sign of the Product of an Array | Easy |  Math | rust, elixir | 04-02-26 |
 | 1502. Can Make Arithmetic Progression From Sequence | Easy | Math | rust, elixir | 04-02-26 |
-| 896. Monotonic Array | Easy | Math | rust | 04-02-26 |
+| 896. Monotonic Array | Easy | Math | rust, elixir | 04-02-26 |
 
 ## HackerRank
 
