@@ -13,7 +13,7 @@ As workloads become more AI-centric, my own sharpness in terms of algorithmic th
 
 ## Plan
 - Do all problems in Rust first to exercise solving the problem itself 
-- Do these problems in Elixir or C++ later to exercise coding in these languages
+- Do these problems in Elixir or C++ later to exercise coding in these languages. Not all leetcode problems support elixir.
 - Do the problems in Php/TS to kill time
 
 # Problems Solved
@@ -33,7 +33,7 @@ Todo - Record SQL 50 finishes
 | 1. Two Sum | Easy | Math | elixir | 02-02-26 |
 | 283. Move Zeroes | Easy | Two Pointers | rust | 03-02-26 |
 | 66. Plus One | Easy | Math | rust | 03-02-26 | 
-| 1822. Sign of the Product of an Array | Easy |  Math | rust | 04-02-26 |
+| 1822. Sign of the Product of an Array | Easy |  Math | rust, elixir | 04-02-26 |
 
 ## HackerRank
 
