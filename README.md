@@ -39,6 +39,7 @@ Todo - Record SQL 50 finishes
 | 13. Roman to Integer | Easy | Math | rust, elixir, typescript | 05-02-26 |
 | 58. Length of Last Word | Easy | Built-in Functions | rust, elixir, typescript | 05-02-26 |
 | 1041. Robot Bounded in Circle | Medium | Simulation | rust, elixir | 06-02-26 |
+| 682. Baseball Game | Easy | Array | rust, elixir | 05-02-26 |
 
 ## HackerRank
 
