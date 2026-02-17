@@ -44,6 +44,7 @@ Todo - Record SQL 50 finishes
 | 1275. Find Winner on a Tic Tac Toe Game | Easy | Simulation | elixir | 12-02-26 |
 | 1672. Richest Customer Wealth | Easy | Math | elixir | 13-02-26 |
 | 54. Spiral Matrix | Medium | Math | elixir | 15-02-26 |
+| 73. Set Matrix Zeroes | Medium | Math | rust | 17-02-26 |
 
 ## HackerRank
 
