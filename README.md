@@ -45,6 +45,7 @@ Todo - Record SQL 50 finishes
 | 1672. Richest Customer Wealth | Easy | Math | elixir | 13-02-26 |
 | 54. Spiral Matrix | Medium | Math | elixir | 15-02-26 |
 | 73. Set Matrix Zeroes | Medium | Math | rust | 17-02-26 |
+| 1523. Count Odd Numbers in an Interval Range | Easy | Math | rust | 18-02-26 |
 
 ## HackerRank
 
