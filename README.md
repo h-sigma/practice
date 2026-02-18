@@ -46,7 +46,7 @@ Todo - Record SQL 50 finishes
 | 54. Spiral Matrix | Medium | Math | elixir | 15-02-26 |
 | 73. Set Matrix Zeroes | Medium | Math | rust | 17-02-26 |
 | 1523. Count Odd Numbers in an Interval Range | Easy | Math | rust | 18-02-26 |
-| 1491. Average Salary Excluding the Minimum and Maximum Salary | Easy | Math | rust | 18-02-26 |
+| 1491. Average Salary Excluding the Minimum and Maximum Salary | Easy | Math | rust, elixir | 18-02-26 |
 
 ## HackerRank
 
