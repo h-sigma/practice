@@ -48,6 +48,7 @@ Todo - Record SQL 50 finishes
 | 1523. Count Odd Numbers in an Interval Range | Easy | Math | rust | 18-02-26 |
 | 1491. Average Salary Excluding the Minimum and Maximum Salary | Easy | Math | rust, elixir | 18-02-26 |
 | 860. Lemonade Change | Easy | Greedy | elixir | 18-02-26 |
+| 1232. Check If It Is a Straight Line | Easy | Maths | rust, elixir | 20-02-26 |
 
 ## HackerRank
 
