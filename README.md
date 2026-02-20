@@ -41,7 +41,7 @@ Todo - Record SQL 50 finishes
 | 682. Baseball Game | Easy | Array | rust | 05-02-26 |
 | 1041. Robot Bounded in Circle | Medium | Simulation | rust, elixir | 06-02-26 |
 | 657. Robot Return to Origin | Easy | Simulation, String | rust | 09-02-26 |
-| 1275. Find Winner on a Tic Tac Toe Game | Easy | Simulation | elixir | 12-02-26 |
+| 1275. Find Winner on a Tic Tac Toe Game | Easy | Simulation | elixir, typescript | 12-02-26 |
 | 1672. Richest Customer Wealth | Easy | Math | elixir | 13-02-26 |
 | 54. Spiral Matrix | Medium | Math | elixir | 15-02-26 |
 | 73. Set Matrix Zeroes | Medium | Math | rust | 17-02-26 |
