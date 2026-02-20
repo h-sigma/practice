@@ -50,6 +50,7 @@ Todo - Record SQL 50 finishes
 | 860. Lemonade Change | Easy | Greedy | elixir | 18-02-26 |
 | 1232. Check If It Is a Straight Line | Easy | Maths | rust, elixir | 20-02-26 |
 | 976. Largest Perimeter Triangle | Easy | Sort | rust | 20-02-26 |
+| 67. Add Binary | Easy | String | rust | 20-02-26 |
 
 ## HackerRank
 
