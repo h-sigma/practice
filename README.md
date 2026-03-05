@@ -58,7 +58,7 @@ Todo - Record SQL 50 finishes
 | 43. Multiply Strings                                          | Medium     | String                 | elixir, rust             | 22-02-26     |
 | 50. Pow(x, n)                                                 | Medium     | Math, Recursion        | rust                     | 23-02-26     |
 | 21. Merge Two Sorted Lists                                    | Easy       | Recursion, Linked List | rust                     | 24-02-26     |
-| 2. Add Two Numbers                                            | Medium     | Linked List            | rust                     | 05-03-26     |
+| 2. Add Two Numbers                                            | Medium     | Linked List            | rust, elixir             | 05-03-26     |
 
 ## HackerRank
 
