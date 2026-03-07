@@ -61,6 +61,7 @@ Todo - Record SQL 50 finishes
 | 2. Add Two Numbers                                            | Medium     | Linked List            | rust, elixir             | 05-03-26     |
 | 11. Container With Most Water                                 | Medium     | Two Pointers, Greedy   | rust                     | 06-03-26     |
 | 44. Wildcard Matching                                         | Hard       | Greedy, DP, Recursion  | rust                     | 07-03-26     |
+| 55. Jump Game                                                 | Medium     | Greedy, DP             | rust                     | 07-03-26     |
 
 ## HackerRank
 
