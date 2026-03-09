@@ -10,7 +10,7 @@ struct Node {
 }
 
 struct LRUCache {
-    map: HashMap<i32, usize>,
+    map: Vec<Option<usize>>,
     capacity: usize,
     arena: Vec<Node>,
     head: Option<usize>,
@@ -26,7 +26,7 @@ impl LRUCache {
     fn new(capacity: i32) -> Self {
         let capacity = capacity as usize;
         LRUCache {
-            map: HashMap::with_capacity(capacity),
+            map: vec![None; 10001],
             arena: Vec::with_capacity(capacity),
             capacity,
             head: None,
@@ -67,7 +67,7 @@ impl LRUCache {
     }
     
     fn get(&mut self, key: i32) -> i32 {
-        if let Some(&idx) = self.map.get(&key) {
+        if let Some(idx) = self.map[key as usize] {
             self.swap_to_most_recently_used(idx);
             self.arena[idx].value
         } else {
@@ -77,12 +77,12 @@ impl LRUCache {
     
     fn put(&mut self, key: i32, value: i32) {
         // only needs updation
-        if let Some(&idx) = self.map.get(&key) {
+        if let Some(idx) = self.map[key as usize] {
             self.arena[idx].value = value;
             self.swap_to_most_recently_used(idx);
         } 
         // needs insertion, but under capacity
-        else if self.map.len() < self.capacity {
+        else if self.arena.len() < self.capacity {
             let insert_idx = self.arena.len();
             self.arena.push(Node {
                 key,
@@ -92,8 +92,8 @@ impl LRUCache {
                 next: None,
                 prev: None,
             });
-            self.map.insert(key, insert_idx);
-            if self.map.len() == 1 {
+            self.map[key as usize] = Some(insert_idx);
+            if self.arena.len() == 1 {
                 // first item!
                 self.head = Some(insert_idx);
                 self.tail = Some(insert_idx);
@@ -109,9 +109,10 @@ impl LRUCache {
                 let node = &self.arena[replace_idx];
                 (node.key, node.prev)
             };
-            self.map.remove(&old_tail_key);
 
-            self.map.insert(key, replace_idx);
+            self.map[old_tail_key as usize] = None;
+            self.map[key as usize] = Some(replace_idx);
+
             self.arena[replace_idx] = Node {
                 key,
                 value,
