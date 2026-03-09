@@ -62,6 +62,7 @@ Todo - Record SQL 50 finishes
 | 11. Container With Most Water                                 | Medium     | Two Pointers, Greedy   | rust                     | 06-03-26     |
 | 44. Wildcard Matching                                         | Hard       | Greedy, DP, Recursion  | rust                     | 07-03-26     |
 | 55. Jump Game                                                 | Medium     | Greedy, DP             | rust                     | 07-03-26     |
+| 2026 Offer Expedition Campaign: Q1. LRU Cache                 | Medium     | Hash Table, LL, DLL    | rust                     | 09-03-26     |
 
 ## HackerRank
 
