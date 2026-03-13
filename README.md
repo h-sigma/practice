@@ -64,6 +64,7 @@ Todo - Record SQL 50 finishes
 | 55. Jump Game                                                 | Medium     | Greedy, DP             | rust                     | 07-03-26     |
 | 2026 Offer Expedition Campaign: Q1. LRU Cache                 | Medium     | Hash Table, LL, DLL    | rust                     | 09-03-26     |
 | 2026 Offer Expedition Campaign: Q2. Merge Intervals           | Medium     | Array, Sorting         | rust                     | 13-03-26     |
+| 2026 Offer Expedition Campaign: Q3. House Robber              | Medium     | Array, DP              | rust                     | 13-03-26     |
 
 ## HackerRank
 
