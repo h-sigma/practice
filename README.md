@@ -67,9 +67,3 @@ Todo - Record SQL 50 finishes
 | 2026 Offer Expedition Campaign: Q3. House Robber              | Medium     | Array, DP              | rust                     | 13-03-26     |
 | 2026 Offer Expedition Campaign: Q4. Number of Islands         | Medium     | Union-Find, Matrix     | rust                     | 13-03-26     |
 | 2026 Offer Expedition Campaign: Q5. Rotten Oranges            | Medium     | BFS, Matrix            | rust                     | 14-03-26     |
-
-## HackerRank
-
-### 30 days of code
-
-Started on 30-01-26. I won't be logging in each individual attempt and instead update end date.
