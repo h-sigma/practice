@@ -66,6 +66,7 @@ Todo - Record SQL 50 finishes
 | 2026 Offer Expedition Campaign: Q2. Merge Intervals           | Medium     | Array, Sorting         | rust                     | 13-03-26     |
 | 2026 Offer Expedition Campaign: Q3. House Robber              | Medium     | Array, DP              | rust                     | 13-03-26     |
 | 2026 Offer Expedition Campaign: Q4. Number of Islands         | Medium     | Union-Find, Matrix     | rust                     | 13-03-26     |
+| 2026 Offer Expedition Campaign: Q5. Rotten Oranges            | Medium     | BFS, Matrix            | rust                     | 14-03-26     |
 
 ## HackerRank
 
