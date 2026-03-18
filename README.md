@@ -69,3 +69,4 @@ Todo - Record SQL 50 finishes
 | 2026 Offer Expedition Campaign: Q5. Rotten Oranges            | Medium     | BFS, Matrix            | rust                     | 14-03-26     |
 | 2026 Offer Expedition Campaign: Q6. Generate Parentheses      | Medium     | DP, Backtracking       | rust                     | 15-03-26     |
 | 2026 QEC: Q7. Best Time to Buy and Sell Stock                 | Medium     | DP                     | rust                     | 18-03-26     |
+| 2026 QEC: Q8. Course Schedule                                 | Medium     | Topo Sort, Graph       | rust                     | 18-03-26     |
