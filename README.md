@@ -81,3 +81,4 @@ Todo - Record SQL 50 finishes
 | 2026 QEC: Q10. Maximum Product Subarray                       | Medium     | DP                     | rust                     | 21-03-26     |
 | 2026 QEC: Q11. Product of Array Except Self                   | Medium     | DP                     | rust                     | 21-03-26     |
 | 26. Remove Duplicates from Sorted Array                       | Medium     | Array, Two Pointers    | rust                     | 25-03-26     |
+| 1365. How Many Numbers Are Smaller Than the Current Number    | Easy       | Counting Sort          | rust                     | 27-03-26     |
