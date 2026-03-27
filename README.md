@@ -20,6 +20,13 @@ As workloads become more AI-centric, my own sharpness in terms of algorithmic th
 - Do these problems in Elixir or C++ later to exercise coding in these languages. Not all leetcode problems support elixir.
 - Do the problems in Php/TS to kill time
 
+## Updates
+
+### 27th March 2026
+
+Since I have now gotten some decent practice in, Easy problems don't even serve as a good warm-up. Also, I've started doing the DSA Quest, which has a tonne of Easy problems that I can solve instantly.
+Keeping this in mind, I've decided not to log Easy problems unless they're worth logging, e.g. unique problem, new concept introduced, would like to revisit later, inappropriately categorized, etc.
+
 # Problems Solved
 
 ## Leetcode
