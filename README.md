@@ -84,3 +84,4 @@ Todo - Record SQL 50 finishes
 | 1365. How Many Numbers Are Smaller Than the Current Number    | Easy       | Counting Sort          | rust                     | 27-03-26     |
 | 740. Delete and Earn                                          | Medium     | DP                     | rust                     | 03-04-26     |
 | 64. Minimum Path Sum                                          | Medium     | DP                     | rust                     | 30-04-26     |
+| 63. Unique Paths II                                           | Medium     | DP                     | rust                     | 30-04-26     |
