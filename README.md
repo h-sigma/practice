@@ -85,3 +85,4 @@ Todo - Record SQL 50 finishes
 | 740. Delete and Earn                                          | Medium     | DP                     | rust                     | 03-04-26     |
 | 64. Minimum Path Sum                                          | Medium     | DP                     | rust                     | 30-04-26     |
 | 63. Unique Paths II                                           | Medium     | DP                     | rust                     | 30-04-26     |
+| 931. Minimum Falling Path Sum                                 | Medium     | DP                     | rust                     | 04-05-26     |
