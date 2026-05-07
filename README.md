@@ -83,6 +83,7 @@ Todo - Record SQL 50 finishes
 | 26. Remove Duplicates from Sorted Array                       | Medium     | Array, Two Pointers    | rust                     | 25-03-26     |
 | 1365. How Many Numbers Are Smaller Than the Current Number    | Easy       | Counting Sort          | rust                     | 27-03-26     |
 | 740. Delete and Earn                                          | Medium     | DP                     | rust                     | 03-04-26     |
-| 64. Minimum Path Sum                                          | Medium     | DP                     | rust                     | 30-04-26     |
-| 63. Unique Paths II                                           | Medium     | DP                     | rust                     | 30-04-26     |
-| 931. Minimum Falling Path Sum                                 | Medium     | DP                     | rust                     | 04-05-26     |
+| 64. Minimum Path Sum                                          | Medium     | DP , Matrix            | rust                     | 30-04-26     |
+| 63. Unique Paths II                                           | Medium     | DP, Matrix             | rust                     | 30-04-26     |
+| 931. Minimum Falling Path Sum                                 | Medium     | DP, Matrix             | rust                     | 04-05-26     |
+| 221. Maximal Square                                           | Medium     | DP, Matrix             | rust                     | 07-05-26     |
