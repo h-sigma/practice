@@ -87,3 +87,4 @@ Todo - Record SQL 50 finishes
 | 63. Unique Paths II                                           | Medium     | DP, Matrix             | rust                     | 30-04-26     |
 | 931. Minimum Falling Path Sum                                 | Medium     | DP, Matrix             | rust                     | 04-05-26     |
 | 221. Maximal Square                                           | Medium     | DP, Matrix             | rust                     | 07-05-26     |
+| 5. Longest Palindromic Substring                              | Medium     | DP, String             | rust                     | 08-05-26     |
