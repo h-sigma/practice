@@ -90,3 +90,4 @@ Todo - Record SQL 50 finishes
 | 5. Longest Palindromic Substring                              | Medium     | DP, String                    | rust                     | 08-05-26     |
 | 139. Word Break                                               | Medium     | DP, String, Memoization, Trie | rust                     | 12-05-26     |
 | 516. Longest Palindromic Subsequence                          | Medium     | DP, String                    | rust                     | 19-05-26     |
+| 72. Edit Distance                                             | Medium     | DP, String                    | rust                     | 29-05-26     |
