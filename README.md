@@ -93,3 +93,4 @@ Todo - Record SQL 50 finishes
 | 72. Edit Distance                                             | Medium     | DP, String                    | rust, elixir             | 29-05-26     |
 | 712. Minimum ASCII Delete Sum for Two Strings                 | Medium     | DP, String                    | rust                     | 17-06-26     |
 | 115. Distinct Subsequences                                    | Medium     | DP, String                    | rust                     | 24-06-26     |
+| 300. Longest Increasing Subsequence                           | Medium     | DP, String                    | rust                     | 25-06-26     |
